@@ -180,8 +180,4 @@ Only include the components you have personally run, tested, and can explain. A 
 
 MIT — see `LICENSE`.
 
-Important about your sample file
-
-Your sample_iocs.csv contains reserved example domains and documentation IP addresses. Those values are intended for local testing, and your code deliberately skips external lookups for non-global IP addresses.
-
-Use a public IP like 8.8.8.8 for the first external test instead.
+Use a public IP like 8.8.8.8 for the first external test.
