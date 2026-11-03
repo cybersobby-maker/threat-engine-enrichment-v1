@@ -1,0 +1,6 @@
+indicator,description
+login-verification.example,Reserved example domain with account-related wording
+hxxps://account-verify.example/login?reset=password,Defanged URL using the reserved .example domain
+http://192.0.2.44/login/verify,Documentation IP in a URL for safe local heuristic testing
+192.0.2.10,Documentation IP address; external lookup should be skipped
+0000000000000000000000000000000000000000000000000000000000000000,Synthetic SHA-256-shaped value; not a real malware claim
